@@ -17,7 +17,7 @@ public class Principal {
             System.out.println("Escolha uma opção valida:");
 
             int escolha = scanner.nextInt();
-            scanner.nextLine();
+            scanner.nextLine() ;
 
             switch (escolha) {
                 case 1:
