@@ -1,4 +1,4 @@
-<h1 align="center"> Conversor de Mordas </h1>
+<h1 align="center"> Conversor de Moedas </h1>
 
 <div align="center">
 #challengeonedecodificador6
@@ -23,3 +23,7 @@ Programa desenvolvido em JAVA, utilizando a API Exchange Rate API.
 - Escolha a moeda de para conversão
 - Insira o valor em Real que deseja converter.
 - O Programa exibe o resultado da conversão.
+
+- ![Result](./imagens/img.png)
+
+-  ![Result](./imagens/Badge-Conversor.png)
