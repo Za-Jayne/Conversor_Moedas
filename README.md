@@ -23,3 +23,5 @@ Programa desenvolvido em JAVA, utilizando a API Exchange Rate API.
 - Escolha a moeda de para conversão
 - Insira o valor em Real que deseja converter.
 - O Programa exibe o resultado da conversão.
+
+- ![Result](./imagens/img.png)
